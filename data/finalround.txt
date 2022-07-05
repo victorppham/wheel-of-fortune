@@ -1,0 +1,8 @@
+Welcome to the final round, {0}!
+As the player with the largest total bank, you'll have a chance to win a cash prize!
+
+A new word has been chosen, and letters R, S, T, L, N, E revealed.
+You can choose 3 more consonants and 1 more vowel (for free) to reveal.
+
+You can make 1 guess at the word.
+If you're correct, you'll win the cash prize!

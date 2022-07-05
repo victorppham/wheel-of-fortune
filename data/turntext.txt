@@ -1,0 +1,2 @@
+It is {0}'s turn!
+You have ${1} in your round bank.
